@@ -1,40 +1,62 @@
 file,Reservoir,Date,Time,Site,Note
-gga_2001-12-31_f0187,FCR,2/24/2025,11:30,50,
-gga_2001-12-31_f0189,FCR,3/10/2025,12:59,50,
-gga_2001-12-31_f0190,FCR,3/17/2025,10:33,50,did not save?
-gga_2001-12-31_f0192,FCR,3/17/2025,11:10,50,
-gga_2001-12-31_f0194,FCR,3/24/2025,11:20,50,
-gga_2001-12-31_f0195,FCR,3/31/2025,14:20,50,
-gga_2001-12-31_f0196,FCR,4/7/2025,,50,"inferred filename from order, was orignially blank"
-gga_2001-12-31_f0197,FCR,4/14/2025,11:40,50,windy
-gga_2001-12-31_f0198,FCR,4/21/2025,11:17,50,windy
-gga_2001-12-31_f0199,FCR,4/28/2025,11:25,50,
-gga_2001-12-31_f0200,FCR,5/5/2025,11:24,50,
-gga_2001-12-31_f0201,FCR,5/19/2025,12:49,50,breezy
-gga_2001-12-31_f0203,FCR,5/26/2025,,50,"no time marked, file name may also be f0203, ratchet strap gone"
-gga_2001-12-31_f0205,FCR,6/2/2025,9:26,50,still no ratchet strap
-gga_2001-12-31_f0209,FCR,6/9/2025,11:14,50,still no ratchet strap
-gga_2001-12-31_f0210,FCR,6/16/2025,11:30,50,
-gga_2001-12-31_f0217,FCR,6/23/2025,10:35,50,
-gga_2001-12-31_f0227,FCR,6/30/2025,13:07,50,only one peak
-gga_2001-12-31_f0248,FCR,7/7/2025,10:24,50,
-gga_2001-12-31_f0252,FCR,7/14/2025,10:58,50,
-gga_2001-12-31_f0253,FCR,7/21/2025,10:55,50,
-gga_2001-12-31_f0254,FCR,7/28/2025,10:56,50,
-gga_2001-12-31_f0275,FCR,8/4/2025,11:17,50,
-gga_2001-12-31_f0283,FCR,8/11/2025,10:58,50,
-gga_2001-12-31_f0284,FCR,8/18/2025,11:20,50,Not useable slopes-made something work but check
-gga_2001-12-31_f0305,FCR,8/25/2025,12:08,50,
-gga_2001-12-31_f0307,FCR,9/1/2025,9:40,50,
-gga_2001-12-31_f0325,FCR,9/8/2025,12:20,50,
-gga_2001-12-31_f0326,FCR,9/8/2025,12:40,50,under the Flux system
-gga_2001-12-31_f0327,FCR,9/15/2025,10:58,50,
-gga_2001-12-31_f0336,FCR,9/22/2025,13:27,50,
-gga_2001-12-31_f0337,FCR,9/22/2025,13:39,50,
-gga_2001-12-31_f0338,FCR,9/29/2025,11:27,50,
-gga_2001-12-31_f0353,FCR,10/6/2025,13:05,50,
-gga_2001-12-31_f0357,FCR,10/13/2025,11:55,50,
-gga_2001-12-31_f0359,FCR,10/20/2025,10:02,50,
-gga_2001-12-31_f0360,FCR,10/27/2025,11:01,50,only one peak
-gga_2001-12-31_f0361,FCR,11/3/2025,12:20,50,
-gga_2001-12-31_f0362,FCR,11/10/2025,9:54,50,
+gga_2001-12-31_f0187,FCR,2/24/25,11:30,50,
+gga_2001-12-31_f0189,FCR,3/10/25,12:59,50,
+gga_2001-12-31_f0190,FCR,3/17/25,10:33,50,did not save?
+gga_2001-12-31_f0192,FCR,3/17/25,11:10,50,
+gga_2001-12-31_f0194,FCR,3/24/25,11:20,50,
+gga_2001-12-31_f0195,FCR,3/31/25,14:20,50,
+gga_2001-12-31_f0196,FCR,4/7/25,,50,"inferred filename from order, was orignially blank"
+gga_2001-12-31_f0197,FCR,4/14/25,11:40,50,windy
+gga_2001-12-31_f0198,FCR,4/21/25,11:17,50,windy
+gga_2001-12-31_f0199,FCR,4/28/25,11:25,50,
+gga_2001-12-31_f0200,FCR,5/5/25,11:24,50,
+gga_2001-12-31_f0201,FCR,5/19/25,12:49,50,breezy
+gga_2001-12-31_f0203,FCR,5/26/25,,50,"no time marked, file name may also be f0203, ratchet strap gone"
+gga_2001-12-31_f0205,FCR,6/2/25,9:26,50,still no ratchet strap
+gga_2001-12-31_f0209,FCR,6/9/25,11:14,50,still no ratchet strap
+gga_2001-12-31_f0210,FCR,6/16/25,11:30,50,
+gga_2001-12-31_f0217,FCR,6/23/25,10:35,50,
+gga_2001-12-31_f0227,FCR,6/30/25,13:07,50,only one peak
+gga_2001-12-31_f0248,FCR,7/7/25,10:24,50,
+gga_2001-12-31_f0252,FCR,7/14/25,10:58,50,
+gga_2001-12-31_f0253,FCR,7/21/25,10:55,50,
+gga_2001-12-31_f0254,FCR,7/28/25,10:56,50,
+gga_2001-12-31_f0275,FCR,8/4/25,11:17,50,
+gga_2001-12-31_f0283,FCR,8/11/25,10:58,50,
+gga_2001-12-31_f0284,FCR,8/18/25,11:20,50,Not useable slopes-made something work but check
+gga_2001-12-31_f0305,FCR,8/25/25,12:08,50,
+gga_2001-12-31_f0307,FCR,9/1/25,9:40,50,
+gga_2001-12-31_f0325,FCR,9/8/25,12:20,50,
+gga_2001-12-31_f0326,FCR,9/8/25,12:40,50,under the Flux system
+gga_2001-12-31_f0327,FCR,9/15/25,10:58,50,
+gga_2001-12-31_f0336,FCR,9/22/25,13:27,50,
+gga_2001-12-31_f0337,FCR,9/22/25,13:39,50,
+gga_2001-12-31_f0338,FCR,9/29/25,11:27,50,
+gga_2001-12-31_f0353,FCR,10/6/25,13:05,50,
+gga_2001-12-31_f0357,FCR,10/13/25,11:55,50,
+gga_2001-12-31_f0359,FCR,10/20/25,10:02,50,
+gga_2001-12-31_f0360,FCR,10/27/25,11:01,50,only one peak
+gga_2001-12-31_f0361,FCR,11/3/25,12:20,50,
+gga_2001-12-31_f0362,FCR,11/10/25,9:54,50,
+gga_2001-12-31_f0222,FCR,6/30/25,10:02,Reference 1,only one peak: 3 min rep
+gga_2001-12-31_f0257,FCR,7/31/25,10:15,Reference 2,only one peak: 3 min rep
+gga_2001-12-31_f0264,FCR,7/31/25,11:33,Reference 1,only one peak: 3 min rep
+gga_2001-12-31_f0276,FCR,8/7/25,9:43,701,only one peak: 3 min rep
+gga_2001-12-31_f0277,FCR,8/7/25,10:32,702,only one peak: 3 min rep
+gga_2001-12-31_f0278,FCR,8/7/25,11:30,703,only one peak: 3 min rep
+gga_2001-12-31_f0279,FCR,8/7/25,11:51,704,only one peak: 3 min rep
+gga_2001-12-31_f0280,FCR,8/7/25,12:20,707,only one peak: 3 min rep
+gga_2001-12-31_f0281,FCR,8/7/25,12:57,705,only one peak: 3 min rep
+gga_2001-12-31_f0282,FCR,8/7/25,13:28,706,only one peak: 3 min rep
+gga_2001-12-31_f0286,FCR,8/21/25,10:15,Reference 2,only one peak: 3 min rep
+gga_2001-12-31_f0294,FCR,8/21/25,11:33,Reference 1,only one peak: 3 min rep
+gga_2001-12-31_f0308,FCR,9/1/25,11:20,Reference 2,only one peak: 3 min rep
+gga_2001-12-31_f0317,FCR,9/1/25,12:40,Reference 1,only one peak: 3 min rep
+gga_2001-12-31_f0328,FCR,9/15/25,12:20,701,only one peak: 3 min rep
+gga_2001-12-31_f0329,FCR,9/15/25,12:48,702,only one peak: 3 min rep
+gga_2001-12-31_f0330,FCR,9/15/25,1:26,703,only one peak: 3 min rep
+gga_2001-12-31_f0331,FCR,9/15/25,13:41,704,only one peak: 3 min rep
+gga_2001-12-31_f0332,FCR,9/15/25,14:05,707,only one peak: 3 min rep
+gga_2001-12-31_f0333,FCR,9/15/25,12:25,705,only one peak: 3 min rep
+gga_2001-12-31_f0339,FCR,9/29/25,12:12,Reference 2,only one peak: 3 min rep
+gga_2001-12-31_f0345,FCR,9/29/25,13:16,Reference 1,only one peak: 3 min rep
